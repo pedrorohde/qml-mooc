@@ -1,3 +1,10 @@
+# QML MOOC
+
+These are my solutions to the Quantum Machine Learning MOOC by Peter Wittek (University of Toronto). The original edX course is no longer available, but the [videos are available on YouTube](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg) and the [coding assingments / notebook tutorials on GitHub](https://github.com/qosf/qml-mooc). If you are using a more recent version of Qiskit, consider working on [@hay-k](https://github.com/hay-k)'s [updated version](https://github.com/hay-k/qml-mooc).
+
+---
+---
+
 Note: this a fork of the [original Gitlab repository](https://gitlab.com/qosf/qml-mooc) of the MOOC, along with the official solutions. Since Peter Wittek, the creator of the MOOC, [disappeared in an avalanche](https://www.cbc.ca/news/canada/toronto/peter-wittek-trisul-rescue-1.5305924) in October 2019, the future of the MOOC on [edX](https://www.edx.org/course/quantum-machine-learning) is uncertain. This repository, along with the [videos](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg), should allow his work to survive and benefit everyone who wants to learn about quantum machine learning! Enjoy!
 
 # Quantum Machine Learning
